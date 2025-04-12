@@ -171,9 +171,3 @@ A linear regression model predicts bike resale prices based on the original pric
 - *Matplotlib* and *Seaborn* for data visualization
 - *Scikit-learn* for machine learning implementation
 
-## Installation and Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Amangarg5990/Bike-Sales-Analysis---India
-cd Bike-Sales-Analysis---India
