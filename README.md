@@ -130,15 +130,10 @@ Horizontal bar chart comparing brand pricing strategies.
 **Objective**: To compare the average bike price among brands, providing insight into brand positioning (budget vs premium).
 
 
-## Future Improvements
-- Implement multivariate regression to incorporate more factors in resale predictions
-- Explore non-linear models for potentially better prediction accuracy
-- Add cross-validation for more robust model evaluation
-- Develop a web interface for interactive predictions
+
 
 ## Technologies Used
 - *Python 3.x*
 - *Pandas* for data manipulation
 - *Matplotlib* and *Seaborn* for data visualization
-- *Scikit-learn* for machine learning implementation
 
